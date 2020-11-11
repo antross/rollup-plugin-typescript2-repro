@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "outDir": "../out/test",
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "include": ["*.js", "**/*.js"]
+}
